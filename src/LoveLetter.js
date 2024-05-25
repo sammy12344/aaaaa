@@ -77,10 +77,12 @@ function LoveLetter() {
             <div className="message">
                 <h1 style={{ padding: '20px' }}>To One and only</h1>
                 <p className="paragraph" style={{ padding: '20px' }}>
-                    The past fortnight has truly been among the most memorable of my life. As you've noted, each day brought its own distinctive charm and significance. I cherished every moment, even amidst our occasional disagreements. I firmly believe that sustaining an ideal relationship requires continuous effort. So, let's seize this moment and strive to make it everlasting.
+                    The past fortnight has truly been among the most memorable times of my life. As you've noted, each day brought its own distinctive charm and significance. I cherished every moment, even amidst our very tiny disagreements. I firmly believe that sustaining an ideal relationship requires continuous effort. So, let's seize this moment and strive to make it everlasting.
                     <br />
                     <br />
                     I want to express my love for you sincerely and deeply.
+                    <br />
+                    I love you 3005!
                     <br />
                     <br />
                     🎵🎵You are my sunshine
